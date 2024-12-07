@@ -7,3 +7,4 @@ Este repositorio contiene la implementación del método del polinomio caracter�
 Antes de comenzar, asegúrate de tener lo siguiente instalado:
 - Python 3.10 o superior
 - Paquetes de Python especificados en requirements.txt
+- Jupyter Lab 4.2.5 (o superior), o Jupyter 7.2.2 (o superior)
